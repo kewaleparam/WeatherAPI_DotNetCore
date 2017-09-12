@@ -1,0 +1,20 @@
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.deps.json
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.json
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.dev.json
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.dll
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.AssemblyInfo.cs
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.pdb
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.dll
+c:\users\pc\documents\visual studio 2017\Projects\MyOwnApi\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.pdb
+D:\Angular Project\Database\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.deps.json
+D:\Angular Project\Database\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.json
+D:\Angular Project\Database\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.runtimeconfig.dev.json
+D:\Angular Project\Database\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.dll
+D:\Angular Project\Database\MyOwnApi\bin\Debug\netcoreapp1.1\MyOwnApi.pdb
+D:\Angular Project\Database\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.csproj.CoreCompileInputs.cache
+D:\Angular Project\Database\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.AssemblyInfoInputs.cache
+D:\Angular Project\Database\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.AssemblyInfo.cs
+D:\Angular Project\Database\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.dll
+D:\Angular Project\Database\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.pdb
+D:\Angular Project\Database\MyOwnApi\obj\Debug\netcoreapp1.1\MyOwnApi.csprojResolveAssemblyReference.cache
